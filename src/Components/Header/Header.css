@@ -1,0 +1,12 @@
+.logo {
+    font-size: 25px !important;
+}
+.nav-link, .logo {
+    padding-right: 30px !important;
+    color: white !important;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 18px;
+    letter-spacing: 0.3px;
+}
